@@ -14,7 +14,6 @@ print("""           |______|                        \___/      \___/      TOOL.W
 print("[1] send an scprit")
 print("[2] ctrl+d for exit")
 input("option:")
-if 1:
  print("""
 import os
 f = open("loss.bat ","a" )
